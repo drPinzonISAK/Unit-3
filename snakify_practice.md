@@ -1,7 +1,7 @@
 # Unit3 Snakify practices
 ## 1. Input, print and numbers ##
 ### Sum of three numbers ###
-```
+```.py
 # This program reads three numbers and prints their sum:
 a = int(input())
 b = int(input())
@@ -133,7 +133,7 @@ I didn't get what to do
 
 ## 4.For loop with range ##
 ### Sum of N numbers ###
-```
+```.py
 N = int(input())
 data = [input() for _ in range(N)]
 s = sum(data)
